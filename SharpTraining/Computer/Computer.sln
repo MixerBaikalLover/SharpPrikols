@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computer", "Computer\Computer.csproj", "{962BD3CA-3613-4567-9C84-54B1574C4B8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondTry", "SecondTry\SecondTry.csproj", "{F33B5B35-539C-4B17-B839-7B6D36596EC4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School", "School\School.csproj", "{F33B5B35-539C-4B17-B839-7B6D36596EC4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mixer/Desktop/Rider/SharpTraining/Computer/SecondTry/SecondTry.csproj",
-      "projectName": "SecondTry",
-      "projectPath": "/Users/mixer/Desktop/Rider/SharpTraining/Computer/SecondTry/SecondTry.csproj",
+      "projectUniqueName": "/Users/mixer/Desktop/Rider/SharpTraining/Computer/School/School.csproj",
+      "projectName": "School",
+      "projectPath": "/Users/mixer/Desktop/Rider/SharpTraining/Computer/School/School.csproj",
       "packagesPath": "/Users/mixer/.nuget/packages/",
-      "outputPath": "/Users/mixer/Desktop/Rider/SharpTraining/Computer/SecondTry/obj/",
+      "outputPath": "/Users/mixer/Desktop/Rider/SharpTraining/Computer/School/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mixer/.nuget/NuGet/NuGet.Config"
